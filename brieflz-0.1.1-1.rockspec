@@ -3,15 +3,15 @@
 -- vim: set ft=lua:
 
 package = 'brieflz'
-version = '0.1.0-2'
+version = '0.1.1-1'
 
 -- LuaDist source
 source = {
-  tag = "0.1.0-2",
+  tag = "0.1.1-1",
   url = "git://github.com/LuaDist-testing/brieflz.git"
 }
 -- Original source
--- source = { url = 'https://github.com/jirutka/brieflz.lua/archive/v0.1.0/brieflz.lua-0.1.0.tar.gz', md5 = '1cb1003cbc340ce935fcf31ee3ea5517' }
+-- source = { url = 'https://github.com/jirutka/brieflz.lua/archive/v0.1.1/brieflz.lua-0.1.1.tar.gz', md5 = '24cc5825c955bb778be0c7d7ee1208f0' }
 -- 
 -- description = {
 --   summary = 'Lua binding for BriefLZ compression library',
